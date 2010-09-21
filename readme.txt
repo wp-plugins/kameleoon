@@ -1,12 +1,12 @@
-=== Kameleoon for WordPress ===
+=== Kameleoon ===
 Contributors: elvanor
-Donate link: http://kameleoon.com/
-Tags: design, theme, template, style, wysiwyg, themes, webdesign
+Donate link: http://www.kameleoon.com/
+Tags: design, css, theme, custom, template, html, style, wysiwyg, themes, webdesign, images, image, widget
 Requires at least: 2.8
 Tested up to: 3.0.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
-This plug-in allows you to easily use the Kameleoon online web design tool with your WordPress blog.
+The Kameleoon plug-in allows you to instantly update the design of your blog. A web GUI provides you with endless customization options (change colors, fonts, add a gradient, rounded corners...) for your template.
 
 == Description ==
 
@@ -29,7 +29,7 @@ Kameleoon will give you total control over your website's appearance, allowing y
 
 You will love Kameleoon if you have an existing site and want to customize its appearance easily, as often as you like. If you already use a template but want to modify it, Kameleoon is the tool of choice. If you're building a website from scratch, our service can also greatly help you reducing your development costs: you will only have to code the layout (position of elements) and all the decorations can be quickly added with Kameleoon.
 
-= Is Kameleoon easy to use? What level of control is offered? = 
+= Is Kameleoon easy to use? What level of control is offered? =
 
 We developed Kameleoon with ease of use in mind. If you can use web applications such as Gmail, you will be able to learn Kameleoon quickly. The interface can be a bit complex at the beginning, but that's because we offer a very high level of control. For each element on the page, you can change its background, its borders, the text size and color, and add special effects like shadows or gradients. The base functionality of our software can be learnt in less than an hour, and everything the results of your changes are viewable directly in your browser!
 
@@ -49,6 +49,9 @@ There are several ways to get help and support. You can:
 3. Another example of a redesign made with Kameleoon.
 
 == Changelog ==
+
+= 1.0.1 =
+* Changed some tags and the short description.
 
 = 1.0 =
 * First release of the Kameleoon plugin for WordPress.
