@@ -3,7 +3,7 @@
 Plugin Name: Kameleoon
 Plugin URI: http://www.kameleoon.com
 Description: Kameleoon allows you to endlessly redesign your WordPress theme, creating beautiful and professional designs without knowing CSS or HTML. Design your blog directly from your browser!
-Tags: design theme template style wysiwyg themes webdesign
+Tags: design css html custom theme template style wysiwyg themes webdesign widget images
 Version: 1.0
 Author: Kameleoon
 Author URI: http://www.kameleoon.com/
@@ -358,7 +358,7 @@ else
 	<p>Kameleoon is a web design tool that allows you to instantly modify the visual
 	appearance of your blog (or other website). Thanks to its easy yet powerful GUI, you can author beautiful and professional looking themes - without knowing CSS or HTML.
 	</p>
-	<p>Kameleoon is compatible with all WordPress templates, which means you can install a template and further customize it to your tastes. However, <a href="http://www.kameleoon.com/ressources/wordpress">
+	<p>Kameleoon is compatible with all WordPress templates, which means you can install a template and further customize it to your tastes. However, <a href="http://www.kameleoon.com/resources/wordpress">
 	we maintain a collection of recommanded templates</a> (templates that have been analyzed and slightly modified by our team to guarantee you a full compatibility). Use one of these if you run into
 	troubles with your own template (or contact us so we can port the template to Kameleoon).</p>
 </div>

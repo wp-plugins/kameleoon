@@ -4,13 +4,13 @@ Donate link: http://www.kameleoon.com/
 Tags: design, css, theme, custom, template, html, style, wysiwyg, themes, webdesign, images, image, widget
 Requires at least: 2.8
 Tested up to: 3.0.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
-The Kameleoon plug-in allows you to instantly update the design of your blog. A web GUI provides you with endless customization options (change colors, fonts, add a gradient, rounded corners...) for your template.
+Kameleoon allows you to easily customize your blog's design: change colors or fonts; add gradients, rounded corners to your template. Instantly!
 
 == Description ==
 
-Kameleoon is a web design tool that allows you to instantly modify the visual appearance of your blog (or other website). Thanks to its easy yet powerful GUI, you can author beautiful and professional looking themes - without knowing CSS or HTML. Kameleoon is compatible with all WordPress templates, which means you can install a template and further customize it to your tastes. However, <a href="http://www.kameleoon.com/ressources/wordpress">
+Kameleoon is a web design tool that allows you to instantly modify the visual appearance of your blog (or other website). Thanks to its easy yet powerful GUI, you can author beautiful and professional looking themes - without knowing CSS or HTML. Kameleoon is compatible with all WordPress templates, which means you can install a template and further customize it to your tastes. However, <a href="http://www.kameleoon.com/resources/wordpress">
 we maintain a collection of recommanded templates</a> (templates that have been analyzed and slightly modified by our team to guarantee you a full compatibility). Use one of these if you run into troubles with your own template (or contact us so we can port your template to Kameleoon).
 
 == Installation ==
@@ -49,6 +49,9 @@ There are several ways to get help and support. You can:
 3. Another example of a redesign made with Kameleoon.
 
 == Changelog ==
+
+= 1.0.2 =
+* Fixed a link.
 
 = 1.0.1 =
 * Changed some tags and the short description.
