@@ -4,7 +4,7 @@ Plugin Name: Kameleoon
 Plugin URI: http://www.kameleoon.com
 Description: Kameleoon allows you to endlessly redesign your WordPress theme, creating beautiful and professional designs without knowing CSS or HTML. Design your blog directly from your browser!
 Tags: design css html custom theme template style wysiwyg themes webdesign widget images
-Version: 1.0
+Version: 1.0.3
 Author: Kameleoon
 Author URI: http://www.kameleoon.com/
 
