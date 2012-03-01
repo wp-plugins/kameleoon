@@ -4,7 +4,7 @@ Donate link: http://www.kameleoon.com/
 Tags: design, css, theme, custom, template, html, style, wysiwyg, themes, webdesign, images, image, widget
 Requires at least: 2.8
 Tested up to: 3.0.1
-Stable tag: 1.0.3
+Stable tag: 1.1
 
 Kameleoon allows you to easily customize your blog's design: change colors or fonts; add gradients, rounded corners to your template. Instantly!
 
